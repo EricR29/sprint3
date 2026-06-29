@@ -1,0 +1,5 @@
+outs:
+- md5: f3c1c7eb1baa0512f6487bcf925fcd49
+  size: 65112
+  hash: md5
+  path: capteurs_temperature.csv
